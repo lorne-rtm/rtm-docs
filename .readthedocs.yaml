@@ -13,8 +13,8 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
-  fail_on_warning: false
-  
-  formats:
+  fail_on_warning: true
+
+formats:
   - pdf
   - epub
