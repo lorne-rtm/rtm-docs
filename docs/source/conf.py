@@ -32,5 +32,30 @@ templates_path = ['_templates']
 
 html_theme = 'pydata_sphinx_theme'
 
+html_theme_options = {
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/Raptor3um/raptoreum",
+            "icon": "fab fa-github-square",
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/raptoreum",
+            "icon": "fab fa-twitter-square",
+        },
+        {
+            "name": "Discord",
+            "url": "https://discor.gg/raptoreum,
+            "icon": "fab fa-discord",
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/@RaptoreumOfficial",
+            "icon": "fab fa-youtube-square",
+        },
+    ],
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
