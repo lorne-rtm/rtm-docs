@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Raptoreum'
+copyright = '2024, Raptoreum'
+author = 'Raptoreum Team'
 
 release = '0.1'
 version = '0.1.0'
