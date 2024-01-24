@@ -1,21 +1,44 @@
-.. :html_theme.sidebar_secondary.remove:
+Raptoreum Documentation
+=======================
 
-.. meta::
-   :description: 
-   :keywords: 
+Welcome to the Raptoreum Documentation! Here you will find all the information you need to understand and work with Raptoreum.
 
-## Raptoreum Documentation
+.. note:: This is some dummy introduction text about the Raptoreum project. You can replace this with your actual project introduction.
 
-[Raptoreum](https://raptoreum.com) is a secure Proof Of Work (POW) Blockchain, Cryptocurrency, and Asset platform that launched mainnet on February 26 2021 after a two year long testnet. Raptoreum had a fair mainnet launch, with no pre-mine, and no ICO.
+Problems We Are Solving
+-----------------------
 
-Raptoreum is under constant development and is aiming to solve the following issues which are present on other Blockchain projects:
+.. tabs::
 
-**Smart Contracts –** Raptoreum will allow for Smart Contracts to be written in common programming languages such a Java, Python, R, and Scala. This allows a large percent of the worlds current developers easy entry into Blockchain and Smart Contracts without needing to learn a new and unknown language such as Solidity.
+   .. tab:: Decentralization
 
-**Assets** – Scalability is currently a common issues on Blockchains where NFTs are widely used. Ethereum is a prime example of this. Raptoreum is attempting to solve NFT scalability issues from multiple angles. Check the Asset Whitepaper for all the details on how we are tackling this issue.
+      Dummy text for Decentralization.
 
-**51% Attack Protection –** Raptoreum combines POW with its Smartnode network to enable LLMQ based Chainlocks. Controlling 51% of the network hashrate is not enough to attack Raptoreum in this way, an attacker would also need to own or control 60% of the Smartnodes on the network.
+   .. tab:: 51% Protection
 
-**Increasing Decentralization Through Participation –** Ghostrider, the POW algorithm developed for Raptoreum by Tri Nguyen-Pham (Raptoreums lead developer) is anti FPGA and anti ASIC. It can be mined either with CPU or GPU, but CPUs have a definitive edge in efficiency. The fact that anybody anywhere can mine Raptoreum (RTM) and receive a reasonable reward increases decentralization of the project.
+      Dummy text for 51% Protection.
 
-Raptoreum has a large, and very diverse global community which regularly contributes to the project, increasing its resiliency and improving the overall quality.
+   .. tab:: Assets
+
+      Dummy text for Assets.
+
+   .. tab:: Smart Contracts
+
+      Dummy text for Smart Contracts.
+
+   .. tab:: Scaling
+
+      Dummy text for Scaling.
+
+Explore Our Documentation
+-------------------------
+
+.. grid::
+
+    .. grid-item-card:: Advanced Docs
+
+        Some introductory text for advanced documentation.
+
+    .. grid-item-card:: User Docs
+
+        Some introductory text for user documentation.
