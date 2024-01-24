@@ -1,34 +1,34 @@
 Raptoreum Documentation
 =======================
 
-Welcome to the Raptoreum Documentation! Here you will find all the information you need to understand and work with Raptoreum.
+Welcome to the Raptoreum Documentation! Here you will find comprehensive guides and documentation to help you start working with Raptoreum as quickly as possible, as well as support if you get stuck. Let's jump right in!
 
 .. note:: This is some dummy introduction text about the Raptoreum project. You can replace this with your actual project introduction.
 
 Problems We Are Solving
 -----------------------
 
-.. tabs::
+.. tab-set::
 
-   .. tab:: Decentralization
+    .. tab-item:: Decentralization
 
-      Dummy text for Decentralization.
+        Decentralization is at the heart of blockchain technology. Raptoreum aims to enhance decentralization by...
 
-   .. tab:: 51% Protection
+    .. tab-item:: 51% Protection
 
-      Dummy text for 51% Protection.
+        Protecting against 51% attacks is crucial for the security of blockchain networks. Raptoreum implements...
 
-   .. tab:: Assets
+    .. tab-item:: Assets
 
-      Dummy text for Assets.
+        The Raptoreum blockchain supports the creation and management of assets, enabling...
 
-   .. tab:: Smart Contracts
+    .. tab-item:: Smart Contracts
 
-      Dummy text for Smart Contracts.
+        Smart Contracts on Raptoreum allow for programmable, self-executing contracts that...
 
-   .. tab:: Scaling
+    .. tab-item:: Scaling
 
-      Dummy text for Scaling.
+        Scaling is a significant challenge for blockchain networks. Raptoreum addresses this issue by...
 
 Explore Our Documentation
 -------------------------
@@ -37,8 +37,8 @@ Explore Our Documentation
 
     .. grid-item-card:: Advanced Docs
 
-        Some introductory text for advanced documentation.
+        Dive deeper into the technical aspects of Raptoreum, including node setup, consensus mechanisms, and more.
 
     .. grid-item-card:: User Docs
 
-        Some introductory text for user documentation.
+        Get started with Raptoreum, learn how to send and receive transactions, secure your wallet, and more.
