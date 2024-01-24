@@ -6,7 +6,7 @@
 
 ## Raptoreum Documentation
 
-[Raptoreum](https://raptoreum.com) is a secure Proof Of Work (POW) Blockchain, Cryptocurrency, and Asset platform that launched mainnet on February 26 2021 after a two year long testnet. Raptoreum had a fair mainnet launch, with no pre-mine, and no ICO.
+[Raptoreum]: https://raptoreum.com is a secure Proof Of Work (POW) Blockchain, Cryptocurrency, and Asset platform that launched mainnet on February 26 2021 after a two year long testnet. Raptoreum had a fair mainnet launch, with no pre-mine, and no ICO.
 
 Raptoreum is under constant development and is aiming to solve the following issues which are present on other Blockchain projects:
 
