@@ -46,7 +46,7 @@ html_theme_options = {
         },
         {
             "name": "Discord",
-            "url": "https://discor.gg/raptoreum,
+            "url": "https://discor.gg/raptoreum",
             "icon": "fab fa-discord",
         },
         {
