@@ -17,22 +17,22 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
-    #"sphinx.ext.rediraffe", (not found)
+    #"sphinx.ext.rediraffe",
     "sphinx_design",
     "sphinx_copybutton",
-    "autoapi.extension",
+    #"autoapi.extension",
     # custom extentions
-    "_extension.gallery_directive",
-    "_extension.component_directive",
+    #"_extension.gallery_directive",
+    #"_extension.component_directive",
     # For extension examples and demos
     "myst_parser",
-    "ablog",
-    "jupyter_sphinx",
-    "sphinxcontrib.youtube",
-    "nbsphinx",
-    "numpydoc",
+    #"ablog",
+    #"jupyter_sphinx",
+    #"sphinxcontrib.youtube",
+    #"nbsphinx",
+    #"numpydoc",
     "sphinx_togglebutton",
-    "jupyterlite_sphinx",
+    #"jupyterlite_sphinx",
     "sphinx_favicon",
 ]
 
