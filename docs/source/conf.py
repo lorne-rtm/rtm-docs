@@ -17,7 +17,7 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
-    "sphinxext.rediraffe",
+    "sphinx.ext.rediraffe",
     "sphinx_design",
     "sphinx_copybutton",
     "autoapi.extension",
