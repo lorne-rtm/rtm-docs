@@ -1,4 +1,5 @@
 sphinx==7.1.2
 myst-parser
 pydata-sphinx-theme
+sphinx-design
 
