@@ -1,6 +1,7 @@
 # Raptoreum Docs
 
-[![Documentation Status](https://readthedocs.org/projects/lorne-rtm-docs/badge/?version=latest)](https://lorne-rtm-docs.readthedocs.io/en/latest/?badge=latest)[![standard-readme  compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
+[![Documentation Status](https://readthedocs.org/projects/lorne-rtm-docs/badge/?version=latest)](https://lorne-rtm-docs.readthedocs.io/en/latest/?badge=latest)
+[![standard-readme  compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
 
 ## 🦅 Raptoreum Documentation
 
