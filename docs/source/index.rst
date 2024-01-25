@@ -4,7 +4,7 @@ Raptoreum Documentation
 Welcome to the Raptoreum Documentation! These "docs" will cover everything from the basics, to advanced use, to docs for developers looking to build on `Raptoreum <https://raptoreum.com>`_ (RTM). Raptoreum is looking to solve issues that are apparent on other Blockchain projects through innovation. 
 RTM is a POW (Proof of Work) based Blockchain which is ASIC and FPGA resistant, and can be mined on common hardware (CPU / GPU) which increases and encourages decentralization. It also offers an alternative way to contribute to the network and earn passive income through collateralized Smartnodes.
 
-.. note:: The current mannet wallet version is 1.3.17.05. Please make sure you are using that version, you can download it `here <https://github.com/Raptor3um/raptoreum/releases/tag/1.3.17.05>`_.
+.. note:: The current mainnet wallet version is 1.3.17.05. Please make sure you are using that version, you can download it `here <https://github.com/Raptor3um/raptoreum/releases/tag/1.3.17.05>`_.
 
 Problems We Are Solving
 -----------------------
