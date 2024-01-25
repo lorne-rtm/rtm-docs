@@ -4,7 +4,7 @@ Raptoreum Documentation
 Welcome to the Raptoreum Documentation! These "docs" will cover everything from the basics, to advanced use, to docs for developers looking to build on `Raptoreum <https://raptoreum.com>`_ (RTM). Raptoreum is looking to solve issues tha are apparent in other Blockchain projects through innovation. 
 RTM is a POW (Proof of Work) based Blockchain which is ASIC and FPGA resistant, and cn be mined on common hardware (CPU / GPU) which incrases and encourages decentralization. It also offers an alternativ way to contribute to the network and earn passive income through collateralized Smartnodes.
 
-.. note:: This documentation is consantly evolving and being added to. Please do let us know on `Discord <https://discord.gg/raptoreum>`_if there is something you think should be added.
+.. note:: This documentation is consantly evolving and being added to. Please do let us know on `Discord <https://discord.gg/raptoreum>`_ if there is something you think should be added.
 
 Problems We Are Solving
 -----------------------
