@@ -48,4 +48,4 @@ Explore Our Documentation
    :maxdepth: 2
    :caption: Contents:
 
-   user_docs/test1
+   test1
