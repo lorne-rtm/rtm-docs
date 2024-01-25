@@ -10,7 +10,7 @@ User Docs
    :width: 60 %
    :align: center
    
-   .. image:: img/logo_light.png
+.. image:: img/logo_light.png
    :class: only-light
    :width: 60 %
    :align: center
