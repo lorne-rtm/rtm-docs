@@ -29,6 +29,6 @@ NOTE: This just dummy data and will be replaced.
 
    getting_started/about
    getting_started/features
-   getting_started/where_to_buy
-   introduction/security
-   introduction/info
+   getting_started/obtaining
+   getting_started/security
+   getting_started/info
