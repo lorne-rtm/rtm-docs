@@ -80,7 +80,7 @@ html_theme_options = {
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-from sphinx.util import mimetypes
+import mimetypes
 
 # Add PDF mime type
 mimetypes.add_type('application/pdf', '.pdf')
