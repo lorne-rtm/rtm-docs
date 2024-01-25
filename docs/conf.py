@@ -80,7 +80,4 @@ html_theme_options = {
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-import mimetypes
-
-# Add PDF mime type
-mimetypes.add_type('application/pdf', '.pdf')
+exclude_patterns = ['includes/*.pdf']
