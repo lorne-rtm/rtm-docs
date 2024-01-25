@@ -79,5 +79,3 @@ html_theme_options = {
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-exclude_patterns = ['includes/*.pdf']
