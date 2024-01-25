@@ -82,3 +82,10 @@ html_theme_options = {
       "image_dark": "../_static/logo_light.svg",
    }
 }
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   ../user_docs/test1
+
