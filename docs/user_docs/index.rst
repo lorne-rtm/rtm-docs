@@ -5,12 +5,12 @@
 User Docs
 =========
 
-.. image:: img/logo_dark.png
+.. image:: img/logo_dark.svg
    :class: only-dark
    :width: 60 %
    :align: center
    
-.. image:: img/logo_light.png
+.. image:: img/logo_light.svg
    :class: only-light
    :width: 60 %
    :align: center
