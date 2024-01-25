@@ -78,8 +78,8 @@ epub_show_urls = 'footnote'
 
 html_theme_options = {
    "logo": {
-      "image_light": "../_static/logo_dark.svg",
-      "image_dark": "../_static/logo_light.svg",
+      "image_light": "_static/logo_dark.svg",
+      "image_dark": "_static/logo_light.svg",
    }
 }
 
@@ -87,5 +87,5 @@ html_theme_options = {
    :maxdepth: 2
    :caption: Contents:
 
-   ../user_docs/test1
+   user_docs/test1
 
