@@ -17,19 +17,19 @@ Problems We Are Solving
 
     .. tab-item:: 51% Protection
 
-        Raptoreum enhances security through quorums and chainlocks via its SmartNode network, significantly mitigating the risk of a 51% attack—a vulnerability many POW blockchains face. By requiring consensus among SmartNodes for transaction validation and block addition, it becomes exceedingly challenging for attackers to alter the blockchain. This mechanism not only deters potential attacks but also bolsters network integrity and trust.
+        Raptoreum enhances security through quorums and chainlocks via its SmartNode network, significantly mitigating the risk of a 51% attack, a vulnerability many POW blockchains face. By requiring consensus among SmartNodes for transaction validation and block addition, it becomes exceedingly challenging for attackers to alter the blockchain. This mechanism not only deters potential attacks but also bolsters network integrity and trust.
 
     .. tab-item:: Assets
 
-        Raptoreum introduces a versatile asset system, supporting both fungible and non-fungible assets. Its non-fungible assets (NFAs) leverage a unique root and sub-asset structure, ensuring each asset has a distinct name for easy identification—only one instance of each name can exist on the blockchain. This clarity in naming simplifies asset verification and recognition. Users can effortlessly mint, transfer, and oversee these assets directly from the Raptoreum core wallet, eliminating the need for programming skills or deep blockchain understanding.
+        Raptoreum introduces a versatile asset system, supporting both fungible and non-fungible assets. Its non-fungible assets (NFAs) leverage a unique root and sub-asset structure, ensuring each asset has a distinct name for easy identification. Only one instance of each name can exist on the blockchain. This clarity in naming simplifies asset verification and recognition. Users can effortlessly mint, transfer, and oversee these assets directly from the Raptoreum core wallet, eliminating the need for programming skills or deep blockchain understanding.
 
     .. tab-item:: Smart Contracts
 
-        Smart Contracts on Raptoreum allow for programmable, self-executing contracts that...
+        Raptoreum's smart contract solution stands out by supporting widely-used programming languages like Java, R, and Python, diverging from the niche languages like Solidity that are common in blockchain environments. This inclusivity taps into a vast pool of existing developers, significantly lowering the barrier to entry for blockchain development. For businesses, this approach translates to substantial cost savings in areas such as code audits and contract creation, making blockchain adoption more accessible and appealing. 
 
     .. tab-item:: Scaling
 
-        Scaling is a significant challenge for blockchain networks. Raptoreum addresses this issue by...
+        Scalability is pivotal for blockchain networks to manage increasing transaction volumes efficiently. Raptoreum innovatively addresses this with transaction decoupling, relocating transactions off the main chain to a sidechain operated by the Smartnode network. This strategy not only alleviates congestion but also substantially elevates the network's transactions per second (TPS). Moreover, Raptoreum's smart contracts, distinct from Ethereum's, are stored and executed on Smartnodes, optimizing performance. A key feature ensuring user-friendliness is Raptoreum's adjustable fees, guaranteeing that users are never overcharged, thus maintaining the network's affordability and accessibility as it grows.
 
 Explore Our Documentation
 -------------------------
