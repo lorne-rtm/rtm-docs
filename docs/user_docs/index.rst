@@ -11,7 +11,7 @@ User Docs
    :align: center
    
    .. image:: img/logo_light.png
-   :class: only-dark
+   :class: only-light
    :width: 60 %
    :align: center
 
