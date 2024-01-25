@@ -1,9 +1,10 @@
 Raptoreum Documentation
 =======================
 
-Welcome to the Raptoreum Documentation! Here you will find comprehensive guides and documentation to help you start working with Raptoreum as quickly as possible, as well as support if you get stuck. Let's jump right in!
+Welcome to the Raptoreum Documentation! These "docs" will cover everything from the basics, to advanced use, to docs for developers looking to build on `Raptoreum <https://raptoreum.com>`_ (RTM). Raptoreum is looking to solve issues tha are apparent in other Blockchain projects through innovation. 
+RTM is a POW (Proof of Work) based Blockchain which is ASIC and FPGA resistant, and cn be mined on common hardware (CPU / GPU) which incrases and encourages decentralization. It also offers an alternativ way to contribute to the network and earn passive income through collateralized Smartnodes.
 
-.. note:: This is some dummy introduction text about the Raptoreum project. You can replace this with your actual project introduction.
+.. note:: This documentation is consantly evolving and being added to. Please do let us know on `Discord <https://discord.gg/raptoreum>`_if there is something you think should be added.
 
 Problems We Are Solving
 -----------------------
@@ -12,7 +13,7 @@ Problems We Are Solving
 
     .. tab-item:: Decentralization
 
-        Decentralization is at the heart of blockchain technology. Raptoreum aims to enhance decentralization by...
+        Raptoreum employs GhostRider, a custom Proof of Work (POW) algorithm designed to resist ASIC and FPGA mining hardware. This strategic choice ensures that mining Raptoreum (RTM) remains accessible to everyone, using standard computing equipment. By avoiding the centralization risks associated with specialized mining hardware, Raptoreum fosters a more decentralized network. This inclusivity not only broadens participation but also enhances the network's resilience against censorship and attacks, reinforcing the core principles of blockchain technology.
 
     .. tab-item:: 51% Protection
 
