@@ -48,4 +48,4 @@ Explore Our Documentation
    :hidden:
    :maxdepth: 3
    
-   docs/user_docs/index
+   user_docs/index
