@@ -45,7 +45,7 @@ Explore Our Documentation
         Get started with Raptoreum, learn how to send and receive transactions, secure your wallet, and more.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   test1
+   :hidden:
+   :maxdepth: 3
+   
+   docs/user_docs/index

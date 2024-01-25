@@ -21,7 +21,7 @@ extensions = [
     "sphinx_design",
     "sphinx_copybutton",
     #"autoapi.extension",
-    # custom extentions
+    # custom extensions
     #"_extension.gallery_directive",
     #"_extension.component_directive",
     # For extension examples and demos
@@ -71,16 +71,11 @@ html_theme_options = {
             "icon": "fab fa-youtube-square",
         },
     ],
+    "logo": {
+        "image_light": "_static/logo_dark.svg",  # Logo for light mode
+        "image_dark": "_static/logo_light.svg",  # Logo for dark mode
+    },
 }
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-html_theme_options = {
-   "logo": {
-      "image_light": "_static/logo_dark.svg",
-      "image_dark": "_static/logo_light.svg",
-   }
-}
-
-
