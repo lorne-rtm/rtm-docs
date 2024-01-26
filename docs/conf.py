@@ -84,5 +84,6 @@ epub_show_urls = 'footnote'
 suppress_warnings = ['epub.unknown_project_files']
 
 html_sidebars = {
+    "index": ["sidebar-main.html"],
     "**": ["sidebar-nav-bs"]
 }
