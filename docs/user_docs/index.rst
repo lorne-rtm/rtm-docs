@@ -7,7 +7,7 @@ User Docs
 
 .. image:: img/logo_dark.svg
    :class: only-dark
-   :width: 675 %
+   :width: 75 %
    :align: center
    
 .. image:: img/logo_light.svg
