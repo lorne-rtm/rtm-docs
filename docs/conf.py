@@ -82,3 +82,7 @@ epub_show_urls = 'footnote'
 
 # -- Silence warnings from unknown files on epub build
 suppress_warnings = ['epub.unknown_project_files']
+
+html_sidebars = {
+    "**": ["sidebar-nav-bs"]
+}
