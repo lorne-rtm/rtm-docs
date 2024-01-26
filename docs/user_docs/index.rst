@@ -7,12 +7,12 @@ User Docs
 
 .. image:: img/logo_dark.svg
    :class: only-dark
-   :width: 60 %
+   :width: 675 %
    :align: center
    
 .. image:: img/logo_light.svg
    :class: only-light
-   :width: 60 %
+   :width: 75 %
    :align: center
 
 Raptoreum Introduction
