@@ -87,3 +87,9 @@ html_sidebars = {
     "index": ["sidebar-main.html"],
     "**": ["sidebar-nav-bs"]
 }
+
+html_static_path = ['_static']
+
+html_css_files = [
+    'css/custom.css',
+]
