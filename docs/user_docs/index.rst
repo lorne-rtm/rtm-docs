@@ -7,12 +7,12 @@ User Docs
 
 .. image:: img/logo_light.svg
    :class: only-dark
-   :width: 75 %
+   :width: 60 %
    :align: center
    
 .. image:: img/logo_dark.svg
    :class: only-light
-   :width: 75 %
+   :width: 60 %
    :align: center
 
 Raptoreum Introduction
@@ -27,41 +27,17 @@ Raptoreum is driven by several foundational goals:
 
 - **Decentralization**: Ensuring the network remains free from centralized control.
 - **Security**: Protecting user assets and data with cutting-edge security measures.
-- **Scalability**: Scaling efficiently to accommodate a growing number of transactions.
-- **User-Friendliness**: Making blockchain technology accessible to everyone.
-- **Innovation**: Continuously integrating new and improved technologies.
+- **Scalability**: Scaling efficiently to accommodate a growing number of transactions.and use cases.
+- **User-Friendliness**: Making blockchain technology asily accessible to everyone.
+- **Innovation**: Continuously integrating new and innovative technologies.
 
-Key Features
-------------
+Raptoreum (RTM) is an innovative cryptocurrency project designed to overcome the scaling and transaction fee issues that challenge established blockchains like Bitcoin and Ethereum. By introducing smart contracts that run on Smartnodes rather than the blockchain itself, Raptoreum significantly enhances efficiency and reduces network congestion. This strategic approach allows for more complex and scalable decentralized applications (dApps) without the burden of high fees or slow processing times, addressing key scalability concerns.
 
-Raptoreum stands out through its unique features:
+Smartnodes are central to Raptoreum's architecture, supporting not just transaction processing but also providing the infrastructure for advanced features, such as; smart contract storage and execution, transaction decoupling, nd 51% protection. This setup contributes to a more scalable and user-friendly network, avoiding the common bottlenecks experienced by other blockchains.
 
-Smartnode Network
-~~~~~~~~~~~~~~~~~
+Raptoreum stands out for its community-driven ethos, with a development model that encourages collaboration and innovation among its users. This approach fosters a rich ecosystem where new ideas and solutions can flourish, further enhancing the project's appeal.
 
-- Enables advanced functionalities such as instant transactions, privacy-focused transactions, 51% protection, transaction decoupling,and Smart Contracts.
 
-GhostRider Algorithm
-~~~~~~~~~~~~~~~~~~~~
-
-- An ASIC and FPGA resistant hashing algorithm that promotes equitable CPU mining, ensuring wider participation and resistance to centralization.
-
-Asset & Token Creation
-~~~~~~~~~~~~~~~~~~~~~~
-
-- Users can easily create uniquely named digital assets (fungible and non-fungible), expanding the ecosystem's versatility.
-
-Smart Contracts
-~~~~~~~~~~~~~~~
-
-- The platform will support Smart Contracts in common programming languages, opening up a very large pool of developers and reducing costs.
-
-Community
-~~~~~~~~~
-
-- Raptoreum is largely a community driven project and features a large, vibrant, and friendly international community.
-
-This introduction aims to provide a clear understanding of Raptoreum's mission and features. For more detailed information, please refer to the subsequent sections of the documentation.
 
 
 .. _getting-started:
