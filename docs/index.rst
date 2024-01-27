@@ -41,7 +41,7 @@ Explore Our Documentation
         Dive deeper into the technical aspects of Raptoreum, including node setup, consensus mechanisms, and more.
 
     .. grid-item-card:: User Docs
-        :link: user_docs/index
+        :link: user_docs/index.html
 
         Get started with Raptoreum, learn how to send and receive transactions, secure your wallet, and more.
 
