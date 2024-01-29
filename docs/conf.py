@@ -34,6 +34,7 @@ extensions = [
     "sphinx_togglebutton",
     #"jupyterlite_sphinx",
     "sphinx_favicon",
+    "hoverxref.extension",
 ]
 
 intersphinx_mapping = {
