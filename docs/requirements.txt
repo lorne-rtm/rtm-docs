@@ -5,5 +5,5 @@ sphinx-design
 sphinx_copybutton
 sphinx_favicon
 sphinx_togglebutton
-hoverxref
+sphinx-hoverxref
 
