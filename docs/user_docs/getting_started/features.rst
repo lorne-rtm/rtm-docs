@@ -54,6 +54,6 @@ Anybody can setup and operate a Smartnode helping strengthen aand decentralize t
 - 80% of transaction fees from futures transactions and asset transactions.
 - They will also be paid in the future for Smart Contracts storage and execution.
 
-You can get the Raptoreum block reward and smooth reduction schedule here: :download:`Raptoreum Reward Schedule <../../Raptoreum_Rewards_Structure.pdf>`
+You can get the Raptoreum block reward and smooth reduction schedule here: :download:`Raptoreum Reward Schedule <../../_static/papers/Raptoreum_Rewards_Structure.pdf>`
 
 
