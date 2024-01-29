@@ -48,12 +48,17 @@ full nodes such as:
 - Block and transaction validation and propagation
 - Serving chaindata to other nodes
 
-Anybody can setup and operate a Smartnode helping strengthen aand decentralize the network and earning passive income as reward for doing so. Smartnodes need to show their commitment to the network by locking up a collateral of 1.8 million RTM. A VPS or dedicated server with a static IPv4 is also required. Smartnodes are paid for their service from block rewards as wll as a percentage from special transactions.
+Anybody can setup and operate a Smartnode helping strengthen and decentralize the network and earning passive income as reward for doing so. Smartnodes need to show their commitment to the network by locking up a collateral of 1.8 million RTM. A VPS or dedicated server with a static IPv4 is also required. Smartnodes are paid for their service from block rewards as wll as a percentage from special transactions.
 
 - Block reward 20%
 - 80% of transaction fees from futures transactions and asset transactions.
 - They will also be paid in the future for Smart Contracts storage and execution.
 
 You can get the Raptoreum block reward and smooth reduction schedule here: :download:`Raptoreum Reward Schedule <../../_static/papers/Raptoreum_Rewards_Structure.pdf>`
+
+.. raw:: html
+
+    <embed src="../../_static/papers/Raptoreum_Rewards_Structure.pdf" type="application/pdf" width="700px" height="500px" />
+
 
 
