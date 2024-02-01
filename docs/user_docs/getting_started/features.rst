@@ -54,11 +54,49 @@ Anybody can setup and operate a Smartnode helping strengthen and decentralize th
 - 80% of transaction fees from futures transactions and asset transactions.
 - They will also be paid in the future for Smart Contracts storage and execution.
 
-You can get the Raptoreum block reward and smooth reduction schedule here: :download:`Raptoreum Reward Schedule <../../_static/papers/Raptoreum_Rewards_Structure.pdf>`
+You :download:`Download <../../_static/papers/Raptoreum_Rewards_Structure.pdf>` the Raptoreum block reward and smooth reduction schedule or view it below.
 
 .. raw:: html
 
     <embed src="../../_static/papers/Raptoreum_Rewards_Structure.pdf" type="application/pdf" width="700px" height="500px" />
+
+.. _instantsend:
+
+InstantSend
+===========
+
+InstaSend on Raptoreum speeds up transactions, which is vital in today's
+fast-paced financial landscape.
+
+How InstaSend Works:
+--------------------
+
+- **Quorum System:** Utilizes the Smartnode network to form voting quorums 
+of diffrent, sizes which vote on if transactions are valid.
+- **ChainLocks:** If transaction is valid, the Smartnodes lock the input and
+broadcast it to the network.
+
+Importance in Financial Transactions:
+-------------------------------------
+
+- **Faster Confirmations:** Contrary to Bitcoin or Ethereum, which need
+  multiple confirmations over time, Raptoreum confirms transactions within seconds.
+- **Speed and Spendability:** This rapid processing ensures funds are readily
+  available, essential for trading, payments, and remittances.
+
+Understanding Confirmations:
+----------------------------
+
+- When a transaction is made and broadcasted to the network it is placed in
+the mempool. It waits here for the miners to pick it up and include it in
+a block. Once it is added to a block and that block is added to the blockchain
+it has one confirmation. Each block added after that increass the confirmations.
+
+.. _chainlocks:
+
+ChainLocks
+==========
+
 
 
 
