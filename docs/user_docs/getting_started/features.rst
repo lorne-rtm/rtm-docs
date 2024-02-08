@@ -80,7 +80,8 @@ Importance in Financial Transactions:
 -------------------------------------
 
 - **Faster Confirmations:** Contrary to Bitcoin or Ethereum, which need
-  multiple confirmations over time, Raptoreum confirms transactions within seconds.
+  multiple confirmations which can ake up to an hour (Bitcoin). Raptoreum
+transactions ar confirmed and spendable in seconds.
 - **Speed and Spendability:** This rapid processing ensures funds are readily
   available, essential for trading, payments, and remittances.
 
@@ -97,6 +98,33 @@ it has one confirmation. Each block added after that increass the confirmations.
 ChainLocks
 ==========
 
+Chainlocks are a security feautere enabled by the Raptoreum Smartnode network.
+This feature should instill confidence for anybody using Raptoreum, whether it
+be transacting coins or assets. You can transact knowing those transactions are
+irreversible, protected.
 
+How Chainlocks Work
+--------------------
+
+Every 12 hours a number of Smartnodes are randomly chosen to participate in a new
+"LLSQ" (Long-Lived Smartnode Quorum). These Qorums are formed using a “DKG” 
+(Distributed Key Generation) process. All members of this Quorum are responsible 
+for observing, and subsequently affirming, newly mined blocks:
+
+  1. Whenever a block is mined, Quorum Members will broadcast a signed
+     message containing the observed block to the rest of the Quorum.
+
+  2. If 60% or more of the Quorum sees the same new block they will
+     collectively form a “CLSIG” (ChainLock Signature) message which
+     will be broadcast to the remainder of the network.
+
+  3. When a valid ChainLock Signature is received by a client on the network,
+     it will reject all blocks at the same height that do not match the block
+     specified in that message.
+
+This makes reorganization events prior to this block impossible.
+
+Futures Transactions
+====================
 
 
