@@ -54,7 +54,7 @@ Anybody can setup and operate a Smartnode helping strengthen and decentralize th
 - 80% of transaction fees from futures transactions and asset transactions.
 - They will also be paid in the future for Smart Contracts storage and execution.
 
-You :download:`Download <../../_static/papers/Raptoreum_Rewards_Structure.pdf>` the Raptoreum block reward and smooth reduction schedule or view it below.
+You can :download:`Download <../../_static/papers/Raptoreum_Rewards_Structure.pdf>` the Raptoreum block reward and smooth reduction schedule or view it below.
 
 .. raw:: html
 
@@ -98,7 +98,7 @@ it has one confirmation. Each block added after that increass the confirmations.
 ChainLocks
 ==========
 
-Chainlocks are a security feautere enabled by the Raptoreum Smartnode network.
+Chainlocks are a security feature enabled by the Raptoreum Smartnode network.
 This feature should instill confidence for anybody using Raptoreum, whether it
 be transacting coins or assets. You can transact knowing those transactions are
 irreversible, protected.
@@ -127,4 +127,10 @@ This makes reorganization events prior to this block impossible.
 Futures Transactions
 ====================
 
+Raptoreums futures transactions allow you to lock a transaction until a
+future date or blockheight at which it unlocks and completes. These futures
+transactions happen at the protocol level, and are a industry first.
+
+Futures transactions are not limited to native RTM coins, they will also be
+available to use with assets (NFT/FT).
 
