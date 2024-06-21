@@ -51,3 +51,20 @@ Raptoreum stands out for its community-driven ethos, with a development model th
    getting_started/obtaining
    getting_started/security
    getting_started/info
+
+.. _users:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Users
+   
+   wallets/index
+   
+.. _network-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption Network
+   
+   smartnodes/index
+   mining/index
