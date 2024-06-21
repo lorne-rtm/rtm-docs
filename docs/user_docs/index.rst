@@ -44,6 +44,7 @@ Raptoreum stands out for its community-driven ethos, with a development model th
 
 .. toctree::
    :maxdepth: 2
+   :caption: Getting Started
 
    getting_started/about
    getting_started/features
