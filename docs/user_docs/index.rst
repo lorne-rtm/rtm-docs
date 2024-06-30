@@ -42,8 +42,9 @@ Raptoreum stands out for its community-driven ethos, with a development model th
 
 .. _getting-started:
 
-..toctree::
+.. toctree::
    :maxdepth: 2
+   :caption: Getting Started
 
    getting_started/about
    getting_started/features
@@ -53,7 +54,7 @@ Raptoreum stands out for its community-driven ethos, with a development model th
 
 .. _users:
 
-..toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Users
    
@@ -61,9 +62,9 @@ Raptoreum stands out for its community-driven ethos, with a development model th
    
 .. _network-docs:
 
-..toctree::
+.. toctree::
    :maxdepth: 2
-   :caption: Network
+   :caption Network
    
    smartnodes/index
    mining/index
